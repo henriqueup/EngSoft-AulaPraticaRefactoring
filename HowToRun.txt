@@ -1,2 +1,2 @@
-javac -cp /home/henrique/java/*.jar *.java
-java -cp /home/henrique/java/*.jar TestRunner
+javac -cp .:/home/henrique/java/* *.java
+java -cp .:/home/henrique/java/* TestRunner
